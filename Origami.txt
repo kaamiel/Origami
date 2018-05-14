@@ -1,7 +1,8 @@
 Zadanie 4: Origami
 
 Origami
-Zaimplementuj bibliotekę dla fanów origami do badania ile warstw ma w danym punkcie sprytnie poskładana kartka papieru. Biblioteka powinna implementować interfejs origami.mli, podany poniżej.
+Zaimplementuj bibliotekę dla fanów origami do badania ile warstw ma w danym punkcie sprytnie poskładana kartka papieru.
+Biblioteka powinna implementować interfejs origami.mli, podany poniżej.
 
 Rozwiązania istotnie korzystające z procedur wyższych rzędów będą oceniane wyżej. 
 
